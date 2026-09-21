@@ -221,4 +221,4 @@ Affinity Designer is provided as a **full free version**, including all features
 Ready to elevate your design projects? **Download Affinity Designer free today and unleash your creativity!**
 
 ---
-**Last updated:** 2026-09-21 11:23:38 UTC
+**Last updated:** 2026-09-21 17:22:58 UTC
